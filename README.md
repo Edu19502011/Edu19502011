@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FrontEnd`**
 
-Me chamo Eduardo Maciel Wanka, tenho 14 anos e sou de Santa Catarina.atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SESI. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Eduardo Wanka](https://www.youtube.com/@EduardoWanka)", onde mostro meu cotiano saindo Junior ao Senior 
+Me chamo Eduardo Maciel Wanka, tenho 16 anos e sou de Santa Catarina.atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SESI. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Eduardo Wanka](https://www.youtube.com/@EduardoWanka)", onde mostro meu cotiano saindo Junior ao Senior 
 
 <p align="left">
   
