@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Eduardo Wanka
+#  Eduardo Wanka
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedor Backend`**
 
  Engenheiro de Software | Backend | Ruby | Java | Spring | Golang | SQL | NoSQL | Microservices | Devops | Terraform | Docker
 
@@ -8,7 +8,7 @@
   
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -118,7 +118,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p>
   <img 
