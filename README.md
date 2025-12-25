@@ -76,14 +76,6 @@
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -92,11 +84,11 @@
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Golang" 
+    title="GO"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://pt.wikipedia.org/wiki/Go_%28linguagem_de_programa%C3%A7%C3%A3o%29" 
 />
 <img 
     align="left" 
