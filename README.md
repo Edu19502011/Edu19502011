@@ -88,7 +88,7 @@
     title="GO"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://pt.wikipedia.org/wiki/Go_%28linguagem_de_programa%C3%A7%C3%A3o%29" 
+    src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" 
 />
 <img 
     align="left" 
