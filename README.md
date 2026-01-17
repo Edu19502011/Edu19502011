@@ -1,8 +1,9 @@
-#  Eduardo
+#  Hi there, I'm Eduardo Wanka! 👋
 
-**`Desenvolvedor Backend`**
+**`Developer | Student | Backend`**
 
  Engenheiro de Software | Backend | Ruby | Java | Spring | Golang | SQL | NoSQL | Microservices | Devops | Terraform | Docker
+
 
 <p align="left">
   
